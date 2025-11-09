@@ -1,4 +1,9 @@
 <!-- Header -->
+<p align="center">
+    <a href="https://github.com/0xbscure">
+        <img src="https://github.com/0xbscure/0xbscure/blob/main/assets/profile.png" alt="0xbscure" width="200">
+    </a>
+</p>
 <h1 align="center">🛡️ 0xbscure — Cyber Security & Pentest</h1>
 <p align="center">Penetration Tester | Network Security | Offensive Security</p>
 
