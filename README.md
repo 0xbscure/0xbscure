@@ -19,8 +19,8 @@
 ---
 
 ### 👨‍💻 Focus Area
-- Offensive Security & Exploitation · System & Network Exploitation · Privilege Escalation 
-- Exploit Dev (Python & C++) · Red Team Basics · Network Security · AD Attack/Defense 
+- Offensive Security · System & Network Exploitation
+- Exploit Dev (Python & C++) · Red Teaming · AD Attack 
 
 ### 🧰 Tech Stack (Offensive & Tools)
 <p align="center">
@@ -45,7 +45,7 @@
 
 ### 🧩 Ongoing Research & Skill Development
 - Advanced privilege escalation on Linux & Windows systems  
-- Active Directory attack simulation & defense  
+- Active Directory attack simulation  
 - OSINT workflow & threat intelligence  
 - Exploit writing & custom payload generation
 
