@@ -52,9 +52,7 @@
 ---
 
 ### 🗂️ Projects & Write-ups
-- 🔗 <a href="https://github.com/USERNAME/CTF-Writeups">CTF Writeups</a> ·
-  <a href="https://github.com/USERNAME/Kioptrix-Writeup">Kioptrix Lab</a> ·
-  <a href="https://github.com/USERNAME/PortScanner">Python Port Scanner</a>
+- 🔗 <a href="https://github.com/0xbscure/Writeup">Writeups</a> ·
 
 
 
