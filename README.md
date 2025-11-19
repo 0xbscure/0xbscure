@@ -5,7 +5,7 @@
     </a>
 </p>
 <h1 align="center">⚔️ 0xbscure — Cyber Security & Pentest</h1>
-<p align="center">Penetration Tester | Network Security | Offensive Security</p>
+<p align="center">Penetration Tester | AD Attack Chains & Red Team Operations | Offensive Security</p>
 
 <!-- Quick Links / Social -->
 <p align="center">
